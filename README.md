@@ -107,3 +107,6 @@ Before running the frontend locally, you need to generate a data file:
  And then run the app in the development mode
 
 `yarn start`
+
+
+### Learn
